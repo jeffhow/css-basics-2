@@ -1,0 +1,41 @@
+/* This ruleset changes the background color of the whole website */
+
+body {
+    background-color: orange;
+}
+
+header {
+    background-color: yellow;
+    padding: 25px;
+    border: 5px solid red;
+    color: red;
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+main {
+    background-color: rgb(200,200,200);
+    padding: 25px;
+    max-width: 1200px;
+    margin: auto;
+}
+img {
+    display: block;
+    margin: auto;
+}
+
+footer {
+    background-color: rgb(128,200,200);
+    padding: 25px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.yellow-bg {
+    background-color: yellow;
+}
+
+.bigger {
+    font-size: 72px;
+}
